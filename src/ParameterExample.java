@@ -2,7 +2,7 @@
  * Created by bobo on 2015/5/17.
  */
 public class ParameterExample {
-    public static void main(String[] args){
+    public static void main(String1[] args){
         int spaces1=3;
         int spaces2=5;
 

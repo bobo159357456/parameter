@@ -2,7 +2,7 @@
  * Created by bobo on 2015/5/17.
  */
 public class ParameterExample2 {
-    public static void main(String[] args){
+    public static void main(String1[] args){
         int x = 17;
         doubleNumber(x);
         System.out.println("x="+x);

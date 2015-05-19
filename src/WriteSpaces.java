@@ -2,7 +2,7 @@
  * Created by Administrator on 2015/5/17.
  */
 public class WriteSpaces {
-    public static void main(String[] args){
+    public static void main(String1[] args){
         drawTop();
     }
     public static void writeSpaces(int number){
